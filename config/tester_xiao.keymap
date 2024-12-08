@@ -9,7 +9,7 @@
             wait-ms = <5>; \
             tap-ms = <5>; \
             #binding-cells = <0>; \
-            bindings = <&kp P &kp I &kp N &kp SPACE>, pin, <&kp ENTER>; \
+            bindings = <&kp P &kp I &kp N &kp SPACE>, pin; \
         }; \
     }; \
 };
